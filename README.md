@@ -153,7 +153,6 @@ The dashboard includes at least two required visualizations:
 ## 🚀 How to Run the Project (Reproducibility)
 
 ### 1️⃣ Clone Repository
-```bash
 git clone https://github.com/WayneHsiao0225/data-engineering-eviction_project.git
 cd data-engineering-eviction_project
 ### 2️⃣ Setup Environment Variables
